@@ -1,19 +1,20 @@
-RunestoneComponents
+RunestoneComponentsExp
 ===================
 
-.. image:: https://badges.gitter.im/Join%20Chat.svg
-   :alt: Join the chat at https://gitter.im/RunestoneInteractive/RunestoneComponents
-   :target: https://gitter.im/RunestoneInteractive/RunestoneComponents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+This is a fork of RunestoneComponents, intended for use as an experimental platform for computing education researchers. The goal is to enable the easy creation of laboratory experiments using the ebook format.
 
-.. image:: https://img.shields.io/pypi/v/Runestone.svg
-   :target: https://pypi.python.org/pypi/Runestone
-   :alt: PyPI Version
+Goals include:
+ - forced progression
+ - poll-type questions
+ - straightforward navigation
 
-.. image:: https://img.shields.io/pypi/dm/Runestone.svg
-   :target: https://pypi.python.org/pypi/Runestone
-   :alt: PyPI Monthly downloads
+I make no promises about the functionality of this repo at the current time!  
 
-.. image:: http://bnmnetp.me:8088/buildStatus/icon?job=RunestoneComponents&build=9
+If you want to help out, let me know :)
+
+
+--- Original README below ----
+
 
 Packaging of the Runestone components for publishing educational materials using Sphinx and restructuredText. Check out the `Overview <http://interactivepython.org/runestone/static/overview/overview.html>`_ To see all of the extensions in action.
 **NOTE** -- If you have used an older version of this repo, please know this is a total restart.  I think much better, and it WILL stay up to date as this is now the master copy of the components not just a copy.
