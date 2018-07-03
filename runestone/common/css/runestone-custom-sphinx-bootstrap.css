@@ -470,7 +470,8 @@ div.flash {
 }
 
 .navLink a{
-	color: #999;
+	color: #666;
+        font-size: 30px;
 }
 
 #completionButton{
